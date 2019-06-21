@@ -60,7 +60,7 @@ public class ModelController {
      **/
     @PostMapping
     public String postTest(){
-        return "post";
+        return "post:post";
     }
 
 
